@@ -1,0 +1,36 @@
+#fullpic{
+	     width: 555px;
+		 height: 600px; 
+		 background-image:url('1.jpg');
+		}
+		#fullgauge{ 
+			width: 10px; 
+			height:200px; 
+			position: absolute; 
+			top: 362px; left: 315px; 
+		}
+		#filledgauge{
+			width: 10px;
+			background-color:red;
+			height: 100px;
+			position: absolute;
+			bottom: 4px;
+		}
+		#mybutton{
+			position: absolute;
+			left: 290px;
+			bottom: 20px;
+		}
+		#level{
+			font-weight: bold;
+			font-size: 32px;
+			color: green;
+			background-color: yellow;
+			width: 50px;
+			height: 50px;
+			border-radius: 50%;
+			text-align: center;
+			line-height: 50px;
+			float: left;
+
+		}
